@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ImagimobStudio>
+  <Timeline id="5e2d9ab4-7ef9-4f11-9f9a-2fbb30d83ff7">
+    <Tracks>
+      <Track name="m4_3setting0" type="datacsv" timecoded="TimestampBeginDuration">
+        <PayloadFile TrackType="Prediction">m4_3setting0.data</PayloadFile>
+        <Offset unit="seconds">59</Offset>
+      </Track>
+    </Tracks>
+  </Timeline>
+</ImagimobStudio>

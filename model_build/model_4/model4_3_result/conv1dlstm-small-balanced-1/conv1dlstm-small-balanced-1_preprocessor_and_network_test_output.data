@@ -1,0 +1,2 @@
+Time (seconds), Duration (seconds),pred_Falling,pred_Squatting,pred_normal,pred_static,pred_Sitting,pred_unlabelled
+0.00000,59.00000,0.00000,0.00063,0.00458,0.99380,0.00000,0.00098
